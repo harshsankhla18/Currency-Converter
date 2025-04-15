@@ -39,7 +39,8 @@ This project leverages asynchronous API calls and clean UI practices to deliver 
 ## 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/9b22d6a9-36e8-4114-905f-8d455edd4f95)
-d)
+
+
 
 
 
