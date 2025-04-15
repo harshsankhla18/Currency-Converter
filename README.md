@@ -25,5 +25,21 @@ This project leverages asynchronous API calls and clean UI practices to deliver 
 
 ---
 
+---
+
+## 🧠 Core Concepts Implemented
+
+- API fetching using `fetch()` and `async/await`
+- DOM manipulation for user interactions
+- String interpolation for real-time updates
+- External API integration (Exchange rates & flags)
+
+---
+
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/b9852f69-3782-4af8-9278-3e2ab39348fd)
+
+
 
 
