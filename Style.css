@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+
+.converter{
+    background-color: #ffdab9;
+    margin-top: 6rem;
+    padding: 1.5rem;
+    border: 1px solid #e1927e;
+    border-radius: 4%;
+}
+
+
+form{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}  
+form select, button, input{
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border: none;
+    border-radius: 2rem;
+}
+form select,button{
+    cursor: pointer;
+    width:50%;
+    height:2rem;
+    font-family:  sans-serif ;
+    background-color: rgb(220, 222, 224);
+}
+form input{
+    font-size:0.9rem;
+    height:2rem;
+    width:80%;
+    background-color: #e2e2e2;
+    padding-left: 1.5rem;
+}
+form select{
+    cursor: pointer;
+    width: 80%;
+    height: 2rem;
+    background-color: #e2e2e2;
+    margin-left: 1.5rem;
+}
+option{
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 0.9rem;
+}
+
+i{
+    padding: 4rem;
+   
+}
+
+
+.dropDown{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+button{
+    color: white;
+    background-color: #d37e8b; 
+}
+.Btn{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.MyBtn{
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.7;
+    transition: 0.3s;
+    border: 1px solid #DBFFCB;
+}
+
+
+.result{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.result p{
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: Arial, sans-serif;
+    color: #67AE6E;
+    ;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    border-radius : 0.8rem;
+}
+
